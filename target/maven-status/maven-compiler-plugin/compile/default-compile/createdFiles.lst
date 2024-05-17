@@ -1,0 +1,14 @@
+ar\edu\utn\frbb\tup\utils\SimpleAdder.class
+ar\edu\utn\frbb\tup\Aplicacion.class
+ar\edu\utn\frbb\tup\utils\Cliente.class
+ar\edu\utn\frbb\tup\inputs\BaseInputProcessor.class
+ar\edu\utn\frbb\tup\inputs\MenuCrearCuenta.class
+ar\edu\utn\frbb\tup\utils\Movimiento.class
+ar\edu\utn\frbb\tup\inputs\ClienteInputProcessor.class
+ar\edu\utn\frbb\tup\utils\Persona.class
+ar\edu\utn\frbb\tup\utils\TipoPersona.class
+ar\edu\utn\frbb\tup\utils\Banco.class
+ar\edu\utn\frbb\tup\utils\Cuenta.class
+ar\edu\utn\frbb\tup\inputs\MenuOperaciones.class
+ar\edu\utn\frbb\tup\inputs\OperacionesInputProcessor.class
+ar\edu\utn\frbb\tup\inputs\MenuInputProcessor.class
